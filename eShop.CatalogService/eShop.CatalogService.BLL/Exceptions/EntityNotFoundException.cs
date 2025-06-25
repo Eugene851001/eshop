@@ -1,0 +1,12 @@
+﻿namespace eShop.CatalogService.BLL.Exceptions;
+
+public class EntityNotFoundException : Exception
+{
+    public EntityNotFoundException()
+    {
+    }
+
+    public EntityNotFoundException(string message) : base(message)
+    {
+    }
+}

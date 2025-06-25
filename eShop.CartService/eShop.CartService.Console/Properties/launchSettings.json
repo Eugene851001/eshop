@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "eShop.CartService.Console": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

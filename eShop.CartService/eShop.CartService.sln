@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShop.CartService", "eShop.CartService\eShop.CartService.csproj", "{937F0FD9-4EF9-490B-9BCB-3F52CD349770}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShop.CartService.Test", "eShop.CartService.Test\eShop.CartService.Test.csproj", "{10D4BA0D-95BC-41CC-BF89-B19E808E642A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShop.CartService.API", "eShop.CartService.API\eShop.CartService.API.csproj", "{07315E42-7EAD-4526-B1C2-0338B170FF86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShop.CartService.API.Tests", "eShop.CartService.API.Tests\eShop.CartService.API.Tests.csproj", "{77499652-B870-4D96-8828-5A3E9E57A232}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShop.CartService.Console", "eShop.CartService.Console\eShop.CartService.Console.csproj", "{575F1C91-D905-4A26-BB76-4D7DE4494772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShop.CartService.ConfluentKafka", "eShop.CartService.ConfluentKafka\eShop.CartService.ConfluentKafka.csproj", "{0A5DFE26-149B-4A04-BAC5-3A1C0465C095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937F0FD9-4EF9-490B-9BCB-3F52CD349770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937F0FD9-4EF9-490B-9BCB-3F52CD349770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937F0FD9-4EF9-490B-9BCB-3F52CD349770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937F0FD9-4EF9-490B-9BCB-3F52CD349770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D4BA0D-95BC-41CC-BF89-B19E808E642A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D4BA0D-95BC-41CC-BF89-B19E808E642A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D4BA0D-95BC-41CC-BF89-B19E808E642A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D4BA0D-95BC-41CC-BF89-B19E808E642A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07315E42-7EAD-4526-B1C2-0338B170FF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07315E42-7EAD-4526-B1C2-0338B170FF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07315E42-7EAD-4526-B1C2-0338B170FF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07315E42-7EAD-4526-B1C2-0338B170FF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77499652-B870-4D96-8828-5A3E9E57A232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77499652-B870-4D96-8828-5A3E9E57A232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77499652-B870-4D96-8828-5A3E9E57A232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77499652-B870-4D96-8828-5A3E9E57A232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575F1C91-D905-4A26-BB76-4D7DE4494772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575F1C91-D905-4A26-BB76-4D7DE4494772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575F1C91-D905-4A26-BB76-4D7DE4494772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575F1C91-D905-4A26-BB76-4D7DE4494772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5DFE26-149B-4A04-BAC5-3A1C0465C095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5DFE26-149B-4A04-BAC5-3A1C0465C095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5DFE26-149B-4A04-BAC5-3A1C0465C095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5DFE26-149B-4A04-BAC5-3A1C0465C095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31CA4D0F-0BCB-4765-8DEE-0790EE42AECF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+packages
+.vs
+bin
+debug
+obj
+release
+*.csproj.user
+published
+
+.sonarqube
