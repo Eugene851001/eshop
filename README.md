@@ -16,8 +16,7 @@ The architecture is grounded in the following principles:
 - **Separation of Concerns**: Each service is dedicated to a specific domain within the e-commerce ecosystem, enhancing modularity and maintainability.
 
 ### 📊 High-Level Diagram
-
-![System Diagram](attached_diagram_image.png)
+![alt text](https://github.com/Eugene851001/eshop/blob/main/eshop.drawio.png)
 
 ### 🛠️ Components Overview
 
